@@ -10,6 +10,9 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    let client1 = false
+    let client2 = false
+
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
