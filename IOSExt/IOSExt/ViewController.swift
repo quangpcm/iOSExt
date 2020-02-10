@@ -10,6 +10,9 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    let huy1 = false
+    let huy2 = false
+
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
