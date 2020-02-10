@@ -12,8 +12,6 @@ class ViewController: UIViewController {
 
     let client1 = false
     let client2 = false
-    let huy1 = false
-    let huy2 = false
 
     override func viewDidLoad() {
         super.viewDidLoad()
